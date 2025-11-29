@@ -1,0 +1,9 @@
+# requirements generated from repository imports
+# Core dependencies
+torch>=1.8.0
+numpy>=1.19.5
+nibabel>=3.2.0
+pandas>=1.1.5
+scipy>=1.5.4
+monai>=0.8.0
+small_gicp
